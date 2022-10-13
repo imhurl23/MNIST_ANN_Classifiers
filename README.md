@@ -2,7 +2,7 @@
 # Project Purpose
 This project outlines 5 different models for digit classification of the MNIST dataset 
 * each model can be invoked and trained by running python Classifier_{SUFFIX}.py
-* *note* This project was completed as an extention of coursework for CSC3022 at the University of Cape Town. 
+* *note*: This project was completed as an extention of coursework for CSC3022 at the University of Cape Town. 
 
 # How to run 
 make 
